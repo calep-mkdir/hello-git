@@ -1,10 +1,10 @@
 ## Clases ##
 
 class Paquito:
-  def __init__(apellido, edad, altura, peso)
-    self.apellido = apellido 
-    self.edad = edad
-    self.altura = altura
+  def __init__(self, apellido, edad, altura, peso):
+    self.apellido = apellido, 
+    self.edad = edad,
+    self.altura = altura,
     self.peso = peso
 
   def decirnombre():
